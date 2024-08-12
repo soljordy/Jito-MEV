@@ -1,5 +1,6 @@
 # Jito-MEV
-MEV bot to find and execute profitable trades with jito bundles and the jupiter api
+JITO-MEV
+specifically targeting SOL and USDC trades. It utilizes the Jupiter API and Jito bundles to circular arbitrage. The bot supports multiple platforms including Raydium, Raydium CLMM, Orca Whirlpools, and Orca AMM pools.
 
 Make sure you run the below npm install in the directory of where the files are saved
 
